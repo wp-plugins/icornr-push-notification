@@ -3,7 +3,7 @@ Contributors: Mythicscape
 Donate link: http://www.icornr.com
 Tags: push notification
 Requires at least: 3.0.1
-Tested up to: 
+Tested up to: 1.0
 Stable tag: 1.0
 
 Plugin for sending push notifications to iPhone with iCornr.
